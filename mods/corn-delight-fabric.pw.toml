@@ -1,0 +1,13 @@
+name = "Corn Delight [Fabric/Quilt]"
+filename = "corndelight-1.19-1.0.4.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "b4ac1879c556cfc39fcd9341b72c4a4f91b1bb47"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4738042
+project-id = 899614

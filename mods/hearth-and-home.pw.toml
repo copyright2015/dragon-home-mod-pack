@@ -1,0 +1,13 @@
+name = "Hearth & Home"
+filename = "hearth_and_home-fabric-1.19.2-1.0.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "2c87f37a4d7906a14b59c19488d0b3a52c038c49"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4488851
+project-id = 849364

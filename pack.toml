@@ -1,0 +1,13 @@
+name = "DragonHome"
+author = "Trapolis"
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "65991a8a1170df7573387f0ade5ec5faaed205151995081757c77a592b3071d6"
+
+[versions]
+fabric = "0.14.24"
+minecraft = "1.19.2"

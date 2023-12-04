@@ -1,0 +1,13 @@
+name = "Terrestria"
+filename = "terrestria-5.0.12.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "1a6aa021fb6181213e5c03f76dba8f519f3794a4"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4849989
+project-id = 323974

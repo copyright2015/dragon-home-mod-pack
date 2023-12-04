@@ -1,0 +1,13 @@
+name = "Recipe Essentials[Forge/Fabric]"
+filename = "recipeessentials-fabric-1.19.2-3.2.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "b05ae8401444bf5711b14a9a7de572151c26f151"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4901073
+project-id = 907856
