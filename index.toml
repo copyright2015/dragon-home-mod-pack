@@ -490,6 +490,11 @@ hash = "bd39f182fc48a61f9ae6fadbabdad080461f8c8180e05e7a188344ec87dffeda"
 metafile = true
 
 [[files]]
+file = "mods/no-chat-reports.pw.toml"
+hash = "f1c5339de1b7ffa1d2e8b8e0c4d08802de33dc47dd9cd19c1b997f959e5c308c"
+metafile = true
+
+[[files]]
 file = "mods/oceans-delight.pw.toml"
 hash = "7dc7ba4a7f8c97672afc2c00aa56406f0e0e5f3f85540fc06c0275a618e5c61d"
 metafile = true
