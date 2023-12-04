@@ -1,6 +1,10 @@
 hash-format = "sha256"
 
 [[files]]
+file = "README.md"
+hash = "241dff12398bb77a6a80d7004d48c3681ce7d2a963b1f66e9157af8b578c43af"
+
+[[files]]
 file = "config/bclib/biomes.json"
 hash = "9ebe27a1e9828995177ee8dcc2e196e8ad74eb466914019d6080353d8c5f75db"
 
