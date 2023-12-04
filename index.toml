@@ -459,9 +459,8 @@ hash = "be0fd8b9cd9f8a94428ea8ac5ec84f4f7bab23697236b7a2e54d8537834e0315"
 metafile = true
 
 [[files]]
-file = "mods/moonlight.pw.toml"
+file = "mods/moonlight.pw.toml.text"
 hash = "426b01481aceca23494ba26bfcfef06e0c2e8ddfac83221570ddaca244afa799"
-metafile = true
 
 [[files]]
 file = "mods/moremcmeta-emissive.pw.toml"
@@ -751,11 +750,6 @@ metafile = true
 [[files]]
 file = "mods/yungs-extras.pw.toml"
 hash = "ebb903bad1b5b99cf9384093708a65d0f72186432c436bb536487253770c32f7"
-metafile = true
-
-[[files]]
-file = "no-chat-reporting-modpack.pw.toml"
-hash = "65abdb8a611e701a74529614b7d0f766b0ec7d1009b1faf5b8e193db1b5cdb68"
 metafile = true
 
 [[files]]
