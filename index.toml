@@ -310,6 +310,11 @@ hash = "06e74abf7bd8696724623e5b94d0fe504df57b61b63cdbbbb9049d9665f5f61a"
 metafile = true
 
 [[files]]
+file = "mods/fabric-waystones.pw.toml"
+hash = "529c11870a118e918393b59b70517525d38c1165efc47cc68bf014391193cdcb"
+metafile = true
+
+[[files]]
 file = "mods/fabrictailor.pw.toml"
 hash = "b3e1f7b080b5c4a2e3de434a6873d84ba5bd357dff99268d45db4a79fb6d43b9"
 metafile = true
@@ -321,6 +326,11 @@ hash = "8df8846bcc6804949d221cb9683a66c31d1b9e3524cfee6369e29cba4764e00d"
 [[files]]
 file = "mods/farmers-respite-fabric.pw.toml"
 hash = "d2fbc9478ed763c8c0e746dc26b33cad452eb10214660aa0deaa63552cfbd3d6"
+metafile = true
+
+[[files]]
+file = "mods/ferritecore-fabric.pw.toml"
+hash = "1dae1ed95575e8248b9fa840f1a7c22d68c86dfc3f94a199a4115e2b12d5adc0"
 metafile = true
 
 [[files]]
@@ -509,8 +519,18 @@ hash = "ed1dcfb4598401190ae72aeee078f75d5ab6845d15ea361443d30b95ea4271d4"
 metafile = true
 
 [[files]]
+file = "mods/owo-lib.pw.toml"
+hash = "d4032db7e51e35e1592e07aeb9306e408c3ba8cff0699dced6a65cb463ee3202"
+metafile = true
+
+[[files]]
 file = "mods/patchouli-fabric.pw.toml"
 hash = "0103115337ebe895bb4802a4de51d9ea8f130112581b9cdf28ed3abee59d50de"
+metafile = true
+
+[[files]]
+file = "mods/polymorph-fabric.pw.toml"
+hash = "d149c541e4fff867ea23f8793ba253e6a5c399696bb1c07252a1bc10025dc2de"
 metafile = true
 
 [[files]]
