@@ -264,7 +264,7 @@
       }
     },
     "slingshot": {
-      "enabled": true,
+      "enabled": false,
       "range_multiplier": 1.0,
       "charge_time": 20,
       "stasis_deceleration": 0.9625,

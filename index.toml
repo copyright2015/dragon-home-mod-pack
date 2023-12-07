@@ -54,7 +54,7 @@ hash = "4e0cffdd02f7e34d4201e06ac6044026423df3647a540973f9e61848af95390c"
 
 [[files]]
 file = "config/supplementaries-common.json"
-hash = "ee9b73314c2fac8196349d4c343e99c0bed22be47b9cd4875655bcc5a8441564"
+hash = "78249380313d3e60f8c80cb2a4a196dc4de2d971122f6b49cc2f91a979429caa"
 
 [[files]]
 file = "config/xaerominimap.txt"
@@ -205,9 +205,8 @@ hash = "2a438a5a687e9bea3399ab4c4cce2babfca667e49760c5ee37b1792f713abf98"
 metafile = true
 
 [[files]]
-file = "mods/create-fabric.pw.toml"
-hash = "85177d5ff0334af62a87ae4ec1b175ecbbd478604f99474cf27e84663a52d551"
-metafile = true
+file = "mods/create-fabric-0.5.1-c-local+mc1.19.2.jar"
+hash = "36040c89c838bee2386b81196d2285b4c41f4a209cfa0a2de44e2ad89c608994"
 
 [[files]]
 file = "mods/create-steam-n-rails.pw.toml"
@@ -494,6 +493,11 @@ hash = "d3e42382f6f10882d83ae9d08e9a3e1f78a331f34389629acf8e475ceb9946e7"
 metafile = true
 
 [[files]]
+file = "mods/mythic-mounts.pw.toml"
+hash = "a7a70ce99a4acdd577fe62df3647b57c4cbb772bdb2d63ca0cb58be4043a414e"
+metafile = true
+
+[[files]]
 file = "mods/nethers-delight-fabric.pw.toml"
 hash = "f94e8ea94e15eb30a7b946fc64a30ae87b71f5ddad7547692bf004b99aaf2375"
 metafile = true
@@ -711,6 +715,11 @@ metafile = true
 [[files]]
 file = "mods/xaeros-world-map.pw.toml"
 hash = "f309948547d737c7865d7f9e31fdb2366f14a955042cbe1aaf61ae0c2814da7a"
+metafile = true
+
+[[files]]
+file = "mods/ydms-red-panda.pw.toml"
+hash = "416aceb354955167794a4c5b6d579a4fde66c6a87662a806172395301ddfea53"
 metafile = true
 
 [[files]]
