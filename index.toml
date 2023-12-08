@@ -45,6 +45,14 @@ file = "config/createdeco-common.toml"
 hash = "5cbb3c2fc968710557059f95d0bef22d496a1f995cd8191d88d373cefaa5c553"
 
 [[files]]
+file = "config/creeper_firework.json5"
+hash = "517bc843c09fa518f99b20b7814fedc776d870fe1340ad8e946aedd29a884d62"
+
+[[files]]
+file = "config/fwaystones/config.json5"
+hash = "cca5080d716b860d2035e686ff3754ef658ca17d8d64c30ff964a9b8545d1f3e"
+
+[[files]]
 file = "config/inventoryprofilesnext/inventoryprofiles.json"
 hash = "be62861c291f9c4da0e8c7219812dee3e5068ab2d0ee917fa3a995c6ac1c31a3"
 
@@ -150,8 +158,18 @@ hash = "87f339c783840fc692ce681b878bf683bee38b5ff5388a4151b5c14b9ecfd8aa"
 metafile = true
 
 [[files]]
+file = "mods/cat_jam.pw.toml"
+hash = "751d2c0bbb07f50cc40702b5c952ded260962c1acc303a543ea43b40a986154f"
+metafile = true
+
+[[files]]
 file = "mods/charm.pw.toml"
 hash = "3bec248d77a44f165f5ca46ee297263c56d91de861444ef00e0d0f432156a8d8"
+metafile = true
+
+[[files]]
+file = "mods/chirpys-wildlife.pw.toml"
+hash = "423ef064848bd91452ca2c15f8bb80e315d2f1333ac5173d3901664b1aa53e19"
 metafile = true
 
 [[files]]
@@ -211,6 +229,16 @@ hash = "36040c89c838bee2386b81196d2285b4c41f4a209cfa0a2de44e2ad89c608994"
 [[files]]
 file = "mods/create-steam-n-rails.pw.toml"
 hash = "988e6ca306ef8c9d84a0e0d4098359d40338eccb83419977ae511979e1804941"
+metafile = true
+
+[[files]]
+file = "mods/creeper-firework.pw.toml"
+hash = "e0cbb2319ef14f2da52f429ce026de5de89ccc071b6fad8ea7be4e0dfb3daa69"
+metafile = true
+
+[[files]]
+file = "mods/critters-and-companions.pw.toml"
+hash = "57ebd9d515b29e3809f89307c25eaf9d2e669beef29f26e18b99e7647e9c5de3"
 metafile = true
 
 [[files]]
