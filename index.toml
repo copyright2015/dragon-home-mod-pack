@@ -168,11 +168,6 @@ hash = "3bec248d77a44f165f5ca46ee297263c56d91de861444ef00e0d0f432156a8d8"
 metafile = true
 
 [[files]]
-file = "mods/chirpys-wildlife.pw.toml"
-hash = "423ef064848bd91452ca2c15f8bb80e315d2f1333ac5173d3901664b1aa53e19"
-metafile = true
-
-[[files]]
 file = "mods/chisels-bits-for-fabric.pw.toml"
 hash = "1c6f60cadb87f28dd67609bf720b1a3564057b5d381898517b7ad4053e46f280"
 metafile = true
@@ -723,6 +718,11 @@ metafile = true
 [[files]]
 file = "mods/when-dungeons-arise-fabric.pw.toml"
 hash = "3aeecc47394608084783e27a0092f73a89bb3e8cdd112bb9902a7887126d28ac"
+metafile = true
+
+[[files]]
+file = "mods/wildlife-fabric.pw.toml"
+hash = "015e6802aea7c0018c33063b92fe76b7f55e0d37ddf77b556f1a2d76dd46efb3"
 metafile = true
 
 [[files]]
