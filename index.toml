@@ -50,7 +50,7 @@ hash = "517bc843c09fa518f99b20b7814fedc776d870fe1340ad8e946aedd29a884d62"
 
 [[files]]
 file = "config/fwaystones/config.json5"
-hash = "cca5080d716b860d2035e686ff3754ef658ca17d8d64c30ff964a9b8545d1f3e"
+hash = "fd1e1a1b388cd02e332055d5a38c27681466a827551d2b6868c6b4a3590f279b"
 
 [[files]]
 file = "config/inventoryprofilesnext/inventoryprofiles.json"
@@ -433,11 +433,6 @@ metafile = true
 [[files]]
 file = "mods/krypton.pw.toml"
 hash = "f2116bab9a54a2f4d95fd7bced75572d95de31cec9b630c6cdfca5cf9d7ff96a"
-metafile = true
-
-[[files]]
-file = "mods/leaves-be-gone.pw.toml"
-hash = "0c11897316def7db6304390013fa4f344ee197e0fb6f2a6b0a36037bb794dbb1"
 metafile = true
 
 [[files]]
