@@ -716,11 +716,6 @@ hash = "3aeecc47394608084783e27a0092f73a89bb3e8cdd112bb9902a7887126d28ac"
 metafile = true
 
 [[files]]
-file = "mods/wildlife-fabric.pw.toml"
-hash = "015e6802aea7c0018c33063b92fe76b7f55e0d37ddf77b556f1a2d76dd46efb3"
-metafile = true
-
-[[files]]
 file = "mods/winterly.pw.toml"
 hash = "44889b33a0e061c149df84d43b2c764f04c745a20d47ad920dfde6dd58c66fd0"
 metafile = true
