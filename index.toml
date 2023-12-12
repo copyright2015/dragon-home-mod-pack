@@ -476,11 +476,6 @@ hash = "58b3a83965d996bf2c512bfeb4dc24c6e06ec3973b83e3ae1ffd2b0ebe5c15f9"
 metafile = true
 
 [[files]]
-file = "mods/mcmtfabric.pw.toml"
-hash = "257f922e34e39451b7fedd19448fd985da0d4fc816364abc6ef5e92e50a56aa7"
-metafile = true
-
-[[files]]
 file = "mods/measurements.pw.toml"
 hash = "1f544b579f5bee5ae47f06ab64096e4a6943115f31cf32104850b2b02dac755c"
 metafile = true
