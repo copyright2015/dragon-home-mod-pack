@@ -138,6 +138,11 @@ hash = "cb6e3fbc40e8093fc954d1eb8a45f90e7af642d246229b3a32079517b88ea946"
 metafile = true
 
 [[files]]
+file = "mods/bobby.pw.toml"
+hash = "55ff9da439e07eaba8020073e8e5dde04169f45c250aac1f18966c1ae2f0d972"
+metafile = true
+
+[[files]]
 file = "mods/botania-fabric.pw.toml"
 hash = "59833032cf16384bbdd04d15d0955e5b0797a51eb48c6a468c1fb3d1320be779"
 metafile = true
@@ -446,11 +451,6 @@ hash = "15961eaca493ab4139541d78a58b685de2bd9a7f49979d5c495d963dabb88ad9"
 metafile = true
 
 [[files]]
-file = "mods/lithium.pw.toml"
-hash = "54a337d13450b35dfc931e7a5f3ed9fca1a1992ec51d3b1e4ea1cb5f7cd2d09c"
-metafile = true
-
-[[files]]
 file = "mods/macaws-furniture.pw.toml"
 hash = "4758678a229cbf08762ff98daf1ad0c6903a4d07e932b84fceca1aa0e28faaea"
 metafile = true
@@ -473,6 +473,11 @@ metafile = true
 [[files]]
 file = "mods/mana-visualizer.pw.toml"
 hash = "58b3a83965d996bf2c512bfeb4dc24c6e06ec3973b83e3ae1ffd2b0ebe5c15f9"
+metafile = true
+
+[[files]]
+file = "mods/mcmtfabric.pw.toml"
+hash = "257f922e34e39451b7fedd19448fd985da0d4fc816364abc6ef5e92e50a56aa7"
 metafile = true
 
 [[files]]
