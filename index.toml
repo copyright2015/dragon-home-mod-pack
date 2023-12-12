@@ -451,6 +451,11 @@ hash = "15961eaca493ab4139541d78a58b685de2bd9a7f49979d5c495d963dabb88ad9"
 metafile = true
 
 [[files]]
+file = "mods/lithium.pw.toml"
+hash = "98921d208121d9da3bfb0962812321b3c64608e1f857248c96273bfd09db0f86"
+metafile = true
+
+[[files]]
 file = "mods/macaws-furniture.pw.toml"
 hash = "4758678a229cbf08762ff98daf1ad0c6903a4d07e932b84fceca1aa0e28faaea"
 metafile = true
