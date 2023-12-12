@@ -446,6 +446,10 @@ hash = "e6445788e906502b942455717e4d9e34e2f6d4032d11567d7ce157ff334faedf"
 metafile = true
 
 [[files]]
+file = "mods/koroworld-lib-2.0.0.jar"
+hash = "1ad63628113e977c710bb36a1b064c126241a1ff474600a2a7c987f89dc0f439"
+
+[[files]]
 file = "mods/krypton.pw.toml"
 hash = "f2116bab9a54a2f4d95fd7bced75572d95de31cec9b630c6cdfca5cf9d7ff96a"
 metafile = true
