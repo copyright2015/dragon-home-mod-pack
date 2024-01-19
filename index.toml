@@ -412,7 +412,7 @@ metafile = true
 
 [[files]]
 file = "mods/indium.pw.toml"
-hash = "90e0de2ccc3cc3559ac161a7e21ce964dc299015c7c0c662cd2c80dc5da6a465"
+hash = "7c3e839ecd643c10c6f905e193b6edc18c978e4be202a031cffd0b3a45266ece"
 metafile = true
 
 [[files]]
@@ -457,7 +457,7 @@ metafile = true
 
 [[files]]
 file = "mods/lithium.pw.toml"
-hash = "360fb88773fdde83a2f2baf8503b3aa3e79f0d98cf22e41043f7ba9edc174cf4"
+hash = "54a337d13450b35dfc931e7a5f3ed9fca1a1992ec51d3b1e4ea1cb5f7cd2d09c"
 metafile = true
 
 [[files]]
@@ -483,11 +483,6 @@ metafile = true
 [[files]]
 file = "mods/mana-visualizer.pw.toml"
 hash = "58b3a83965d996bf2c512bfeb4dc24c6e06ec3973b83e3ae1ffd2b0ebe5c15f9"
-metafile = true
-
-[[files]]
-file = "mods/mcmtfabric.pw.toml"
-hash = "257f922e34e39451b7fedd19448fd985da0d4fc816364abc6ef5e92e50a56aa7"
 metafile = true
 
 [[files]]
