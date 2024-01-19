@@ -361,11 +361,6 @@ hash = "d2fbc9478ed763c8c0e746dc26b33cad452eb10214660aa0deaa63552cfbd3d6"
 metafile = true
 
 [[files]]
-file = "mods/fastload.pw.toml"
-hash = "0e72ac12907f4fb5a499a459cc2c64f9225a0c77ee59e76c9360ff0d3479aea2"
-metafile = true
-
-[[files]]
 file = "mods/ferritecore-fabric.pw.toml"
 hash = "1dae1ed95575e8248b9fa840f1a7c22d68c86dfc3f94a199a4115e2b12d5adc0"
 metafile = true
@@ -492,7 +487,7 @@ metafile = true
 
 [[files]]
 file = "mods/mcmtfabric.pw.toml"
-hash = "c5a1647a8e9c7da5d336e5a1b014eb15ca81fbbcffd8876e26d7102bfde3d981"
+hash = "257f922e34e39451b7fedd19448fd985da0d4fc816364abc6ef5e92e50a56aa7"
 metafile = true
 
 [[files]]
