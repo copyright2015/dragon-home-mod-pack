@@ -163,6 +163,11 @@ hash = "87f339c783840fc692ce681b878bf683bee38b5ff5388a4151b5c14b9ecfd8aa"
 metafile = true
 
 [[files]]
+file = "mods/carpet.pw.toml"
+hash = "c843d0e2598840b54a1ee1487ca159ed108d86f0d2d6507afc96e0ebcecb15fc"
+metafile = true
+
+[[files]]
 file = "mods/cat_jam.pw.toml"
 hash = "751d2c0bbb07f50cc40702b5c952ded260962c1acc303a543ea43b40a986154f"
 metafile = true
@@ -356,6 +361,11 @@ hash = "d2fbc9478ed763c8c0e746dc26b33cad452eb10214660aa0deaa63552cfbd3d6"
 metafile = true
 
 [[files]]
+file = "mods/fastload.pw.toml"
+hash = "0e72ac12907f4fb5a499a459cc2c64f9225a0c77ee59e76c9360ff0d3479aea2"
+metafile = true
+
+[[files]]
 file = "mods/ferritecore-fabric.pw.toml"
 hash = "1dae1ed95575e8248b9fa840f1a7c22d68c86dfc3f94a199a4115e2b12d5adc0"
 metafile = true
@@ -388,6 +398,11 @@ metafile = true
 [[files]]
 file = "mods/go-fish.pw.toml"
 hash = "869af50c062e2a2319c9af813598da5e4352953f8a2fb4b1aa386daa12ec1672"
+metafile = true
+
+[[files]]
+file = "mods/gotta-go-fast-fabric.pw.toml"
+hash = "2dad3b4950557e9ae9e9df186a557737ad7791efe195bc52cac83b66ed69f746"
 metafile = true
 
 [[files]]
@@ -473,6 +488,11 @@ metafile = true
 [[files]]
 file = "mods/mana-visualizer.pw.toml"
 hash = "58b3a83965d996bf2c512bfeb4dc24c6e06ec3973b83e3ae1ffd2b0ebe5c15f9"
+metafile = true
+
+[[files]]
+file = "mods/mcmtfabric.pw.toml"
+hash = "c5a1647a8e9c7da5d336e5a1b014eb15ca81fbbcffd8876e26d7102bfde3d981"
 metafile = true
 
 [[files]]
@@ -626,6 +646,11 @@ hash = "3349a98a9c85ebe1a268ea2bbc23145bdba64100343abde56dbef4f2c8a2f239"
 metafile = true
 
 [[files]]
+file = "mods/servercore.pw.toml"
+hash = "94d8491cd39504b6faa3fb1c3da6233dfc0dbf5d854798a53079fb3f7c5fdfd0"
+metafile = true
+
+[[files]]
 file = "mods/simple-voice-chat.pw.toml"
 hash = "be70cc8064abcf938855c52dc056a5245ec83e1ca99dd5b5f5d0d5d530dfe8ec"
 metafile = true
@@ -663,6 +688,11 @@ metafile = true
 [[files]]
 file = "mods/spectrum.pw.toml"
 hash = "a3de3e03e75c0a141b42759d3167c7928bc145b61c4aba96c7adb50d9c893bdf"
+metafile = true
+
+[[files]]
+file = "mods/starlight.pw.toml"
+hash = "2aeab4f3b0a720ed02f400d9b521f1858474d4f8f7c3577ce916d5aa31fe37e1"
 metafile = true
 
 [[files]]
