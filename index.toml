@@ -401,13 +401,8 @@ hash = "4b0730c88ad11d64014b915bce07c61b1671647ed28ac34cdba60bc88a3d232e"
 metafile = true
 
 [[files]]
-file = "mods/immersive-snow.pw.toml"
-hash = "f25a852397eb5ae697e0025a5dc71197abdb9db16007fedb043f89ffd98b1a29"
-metafile = true
-
-[[files]]
 file = "mods/indium.pw.toml"
-hash = "7c3e839ecd643c10c6f905e193b6edc18c978e4be202a031cffd0b3a45266ece"
+hash = "90e0de2ccc3cc3559ac161a7e21ce964dc299015c7c0c662cd2c80dc5da6a465"
 metafile = true
 
 [[files]]
@@ -452,7 +447,7 @@ metafile = true
 
 [[files]]
 file = "mods/lithium.pw.toml"
-hash = "54a337d13450b35dfc931e7a5f3ed9fca1a1992ec51d3b1e4ea1cb5f7cd2d09c"
+hash = "360fb88773fdde83a2f2baf8503b3aa3e79f0d98cf22e41043f7ba9edc174cf4"
 metafile = true
 
 [[files]]
@@ -673,6 +668,11 @@ metafile = true
 [[files]]
 file = "mods/supplementaries.pw.toml"
 hash = "7b9f797ca6af3ac6fa55de54dc6298e549c75d83cae68f039a30ccedf3bf682f"
+metafile = true
+
+[[files]]
+file = "mods/table-top-craft-fabric.pw.toml"
+hash = "7741862c0f03578aaddbf836accd870767bc3750a23bdad649d759218807dd7e"
 metafile = true
 
 [[files]]
